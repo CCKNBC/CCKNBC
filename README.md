@@ -5,10 +5,10 @@
 ### 📕 最近更新的博文
 
 <!-- BLOG-POST-LIST:START -->
+- [Ta 什么都不说](https://blog.ccknbc.cc/posts/ta-said-nothing/)
 - [你以为 AddThis 只是个分享工具吗？](https://blog.ccknbc.cc/posts/the-real-addthis/)
 - [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
 - [很棒的状态页面](https://blog.ccknbc.cc/posts/awesome-status-pages/)
-- [CC的部落格 外挂标签笔记](https://blog.ccknbc.cc/posts/introduction-of-plugin-tags-based-on-butterfly/)
 - [简单浏览器更新推送的实现](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)
 <!-- BLOG-POST-LIST:END -->
 
