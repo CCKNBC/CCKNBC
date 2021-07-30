@@ -6,10 +6,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ta 什么都不说](https://blog.ccknbc.cc/posts/ta-said-nothing/)
-- [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
-- [简单浏览器更新推送的实现](https://blog.ccknbc.cc/posts/implementation-of-simple-browser-update-push/)
-- [很棒的状态页面](https://blog.ccknbc.cc/posts/awesome-status-pages/)
-- [你以为 AddThis 只是个分享工具吗？](https://blog.ccknbc.cc/posts/the-real-addthis/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blog.ccknbc.cc">➡️ 前往部落格查看更多</a></p>
