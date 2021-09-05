@@ -17,7 +17,7 @@
 ### 🐦 同步更新于语雀:
 
 {{#each record}}
-  - [{{title}} ( {{short created_at "MM-dd"}} · {{math likes_count "*" 7}} 颗稻谷)](https://yuque.com/{{@root.namespace}}/{{slug}})
+  - [{{title}} ( {{short updated_at "MM-dd"}} · {{math likes_count "*" 7}} 颗稻谷)](https://yuque.com/{{@root.namespace}}/{{slug}})
 {{/each}}
 
 <p align="right"><a href="https://www.yuque.com/ccknbc/blog">➡️ 前往语雀查看更多</a></p>
