@@ -27,7 +27,7 @@ jobs:
         yuque-token: ${{secrets.YUQUE_TOKEN}}
         yuque-namespace: ccknbc/blog
         yuque-doc-public-only: true
-        yuqur-doc-order-by: updated_at
+        yuque-doc-order-by: updated_at
         yuque-template-file: README.template.md
         yuque-output-file: README.md
     - name: Result
