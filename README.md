@@ -16,10 +16,10 @@
 
 ### 🐦 同步更新于语雀:
 
+  - [Google Adsense 食用日志 ( 10-30 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
   - [如何优雅隐藏 Hexo 文章 ( 10-23 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/30)
   - [第56届电视金钟奖 ( 10-23 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/29)
   - [CC的社畜日记 Part1 ( 08-29 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/28)
   - [Ta 什么都不说 ( 07-20 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/27)
-  - [CC的部落格 外挂标签笔记 ( 07-18 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/22)
 
 <p align="right"><a href="https://www.yuque.com/ccknbc/blog">➡️ 前往语雀查看更多</a></p>
