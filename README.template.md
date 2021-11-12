@@ -5,8 +5,8 @@
 ### 📕 最近更新的博文
 
 <!-- BLOG-POST-LIST:START -->
-- [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
 - [Google Adsense 配置手册](https://blog.ccknbc.cc/posts/google-adsense-configuration-manual/)
+- [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
 - [如何优雅隐藏 Hexo 文章](https://blog.ccknbc.cc/posts/how-to-hide-hexo-articles-gracefully/)
 - [第56届电视金钟奖](https://blog.ccknbc.cc/posts/56th-golden-bell-awards/)
 - [CC的社畜日记 Part1](https://blog.ccknbc.cc/posts/ccs-work-diary-part1/)
