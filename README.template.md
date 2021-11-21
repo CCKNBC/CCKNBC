@@ -5,11 +5,11 @@
 ### 📕 最近更新的博文
 
 <!-- BLOG-POST-LIST:START -->
+- [双重验证 最后一道安全防线](https://blog.ccknbc.cc/posts/2fa-last-security-line/)
 - [Google Adsense 配置手册](https://blog.ccknbc.cc/posts/google-adsense-configuration-manual/)
 - [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
 - [如何优雅隐藏 Hexo 文章](https://blog.ccknbc.cc/posts/how-to-hide-hexo-articles-gracefully/)
 - [第56届电视金钟奖](https://blog.ccknbc.cc/posts/56th-golden-bell-awards/)
-- [CC的社畜日记 Part1](https://blog.ccknbc.cc/posts/ccs-work-diary-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blog.ccknbc.cc">➡️ 前往部落格查看更多</a></p>
