@@ -17,7 +17,7 @@
 ### 🐦 同步更新于语雀:
 
   - [两步验证 最后一道安全防线 ( 11-22 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/32)
-  - [Google Adsense 配置手册 ( 11-08 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
+  - [Google Adsense 配置手册 ( 11-27 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
   - [如何优雅隐藏 Hexo 文章 ( 10-23 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/30)
   - [第56届电视金钟奖 ( 10-23 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/29)
   - [CC的社畜日记 Part1 ( 11-22 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/28)
