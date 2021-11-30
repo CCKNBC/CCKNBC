@@ -16,7 +16,7 @@
 
 ### 🐦 同步更新于语雀:
 
-  - [CC的社畜日记 Part2 ( 11-29 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/33)
+  - [CC的社畜日记 Part2 ( 11-30 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/33)
   - [两步验证 最后一道安全防线 ( 11-29 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/32)
   - [Google Adsense 配置手册 ( 11-27 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
   - [如何优雅隐藏 Hexo 文章 ( 10-23 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/30)
