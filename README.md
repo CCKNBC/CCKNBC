@@ -6,10 +6,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CC的社畜日记 Part2](https://blog.ccknbc.cc/posts/ccs-work-diary-part2/)
-- [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
 - [两步验证 最后一道安全防线](https://blog.ccknbc.cc/posts/2fa-last-security-line/)
 - [Google Adsense 配置手册](https://blog.ccknbc.cc/posts/google-adsense-configuration-manual/)
 - [如何优雅隐藏 Hexo 文章](https://blog.ccknbc.cc/posts/how-to-hide-hexo-articles-gracefully/)
+- [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blog.ccknbc.cc">➡️ 前往部落格查看更多</a></p>
