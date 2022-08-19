@@ -20,6 +20,6 @@
   - [CC的社畜日记 Part3 ( 06-26 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/34)
   - [CC的社畜日记 Part2 ( 06-14 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/33)
   - [两步验证 最后一道安全防线 ( 06-14 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/32)
-  - [Google Adsense 配置手册 ( 06-14 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
+  - [Google Adsense 配置手册 ( 08-19 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
 
 <p align="right"><a href="https://www.yuque.com/ccknbc/blog">➡️ 前往语雀查看更多</a></p>
