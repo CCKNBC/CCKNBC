@@ -8,7 +8,7 @@
 - [你的公共电视](https://blog.ccknbc.cc/posts/about-pts/)
 - [CC的社畜日记 Part3](https://blog.ccknbc.cc/posts/ccs-work-diary-part3/)
 - [CC的社畜日记 Part2](https://blog.ccknbc.cc/posts/ccs-work-diary-part2/)
-- [两步验证 最后一道安全防线](https://blog.ccknbc.cc/posts/2fa-last-security-line/)
+- [如何优雅隐藏 Hexo 文章](https://blog.ccknbc.cc/posts/how-to-hide-hexo-articles-gracefully/)
 - [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
 <!-- BLOG-POST-LIST:END -->
 
