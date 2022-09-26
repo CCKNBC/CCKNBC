@@ -17,7 +17,7 @@
 ### 🐦 同步更新于语雀:
 
   - [你的公共电视 ( 08-08 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/35)
-  - [CC的社畜日记 Part3 ( 06-26 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/34)
+  - [CC的社畜日记 Part3 ( 09-26 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/34)
   - [CC的社畜日记 Part2 ( 08-28 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/33)
   - [两步验证 最后一道安全防线 ( 06-14 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/32)
   - [Google Adsense 配置手册 ( 08-19 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
