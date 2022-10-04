@@ -16,10 +16,10 @@
 
 ### 🐦 同步更新于语雀:
 
+  - [Hexo浏览器定向推送文章更新 ( 10-05 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/37)
+  - [语雀文章同步至Hexo笔记 ( 10-05 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/36)
   - [你的公共电视 ( 08-08 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/35)
   - [CC的社畜日记 Part3 ( 09-26 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/34)
   - [CC的社畜日记 Part2 ( 08-28 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/33)
-  - [两步验证 最后一道安全防线 ( 06-14 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/32)
-  - [Google Adsense 配置手册 ( 08-19 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/31)
 
 <p align="right"><a href="https://www.yuque.com/ccknbc/blog">➡️ 前往语雀查看更多</a></p>
