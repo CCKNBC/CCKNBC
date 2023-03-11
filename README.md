@@ -19,7 +19,7 @@
   - [Hexo浏览器定向推送文章更新 ( 03-05 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/37)
   - [语雀文章同步至Hexo笔记 ( 02-10 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/36)
   - [你的公共电视 ( 02-10 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/35)
-  - [CC的社畜日记 Part3 ( 02-10 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/34)
+  - [CC的社畜日记 Part3 ( 03-11 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/34)
   - [CC的社畜日记 Part2 ( 02-10 · 0 颗稻谷)](https://yuque.com/ccknbc/blog/33)
 
 <p align="right"><a href="https://www.yuque.com/ccknbc/blog">➡️ 前往语雀查看更多</a></p>
