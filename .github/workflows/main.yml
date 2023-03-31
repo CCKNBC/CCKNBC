@@ -22,14 +22,6 @@ jobs:
         readme_path: "./README.template.md"
         committer_username: "github-actions[bot]"
         committer_email: "github-actions[bot]@users.noreply.github.com"
-    - uses: RaoHai/yuque2Readme@master
-      with:
-        yuque-token: ${{secrets.YUQUE_TOKEN}}
-        yuque-namespace: ccknbc/blog
-        yuque-doc-public-only: true
-        yuque-doc-order-by: updated_at
-        yuque-template-file: README.template.md
-        yuque-output-file: README.md
     - name: Result
       run: |-
         cat README.md
