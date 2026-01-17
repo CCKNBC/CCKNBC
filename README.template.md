@@ -5,11 +5,11 @@
 ### 📕 最近更新的博文
 
 <!-- BLOG-POST-LIST:START -->
-- [2023《好好》线上演唱会](https://blog.ccknbc.cc/posts/song-about-you-live-in-the-sky-2023/)
-- [Hexo浏览器定向推送文章更新](https://blog.ccknbc.cc/posts/hexo-webpushr-notification/)
-- [你的公共电视](https://blog.ccknbc.cc/posts/about-pts/)
-- [你以为 AddThis 只是个分享工具吗？](https://blog.ccknbc.cc/posts/the-real-addthis/)
-- [Hexo Butterfly Algolia 搜索的使用](https://blog.ccknbc.cc/posts/hexo-butterfly-algolia/)
+- [提问的智慧](https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/)
+- [基于小波变换的图像去噪技术研究](https://blog.ccknbc.cc/posts/research-on-image-denoising-technology-based-on-wavelet-transform/)
+- [GitHub 自动合并 PR 笔记](https://blog.ccknbc.cc/posts/github-automatically-merges-pull-requests-notes/)
+- [Waline 评论系统部署日志](https://blog.ccknbc.cc/posts/waline-comments-system-deployment-logs/)
+- [一款简洁却不简单的 m3u8 下载工具](https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blog.ccknbc.cc">➡️ 前往部落格查看更多</a></p>
