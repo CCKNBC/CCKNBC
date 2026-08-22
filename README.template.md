@@ -5,11 +5,11 @@
 ### 📕 最近更新的博文
 
 <!-- BLOG-POST-LIST:START -->
-- [提问的智慧](https://blog.ccknbc.cc/posts/how-to-ask-questions-the-smart-way/)
-- [GitHub 自动合并 PR 笔记](https://blog.ccknbc.cc/posts/github-automatically-merges-pull-requests-notes/)
+- [&lt;font style=color:rgb&lpar;38, 38, 38&rpar;;&gt;2023《好好》线上演唱会&lt;/font&gt;](https://blog.ccknbc.cc/posts/%3Cfont%20style=%22color:rgb(38,%2038,%2038);%22%3Esong-about-you-live-in-the-sky-2023%3C/font%3E/)
+- [很棒的状态页面](https://blog.ccknbc.cc/posts/undefined/)
 - [一款简洁却不简单的 m3u8 下载工具](https://blog.ccknbc.cc/posts/a-simple-but-not-simple-m3u8-download-tool/)
 - [Waline 评论系统部署日志](https://blog.ccknbc.cc/posts/waline-comments-system-deployment-logs/)
-- [很棒的状态页面](https://blog.ccknbc.cc/posts/undefined/)
+- [GitHub 自动合并 PR 笔记](https://blog.ccknbc.cc/posts/github-automatically-merges-pull-requests-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blog.ccknbc.cc">➡️ 前往部落格查看更多</a></p>
